@@ -1,0 +1,21 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPathWin": "C:/Esp/project/frameworks/esp-idf-v5.4/",
+  "idf.toolsPathWin": "C:\\Esp\\project",
+  "idf.pythonInstallPath": "C:\\Esp\\project\\tools\\idf-python\\3.11.2\\python.exe",
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
+  ],
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "files.associations": {
+    "freertos.h": "c",
+    "wifi_config.h": "c",
+    "sdkconfig.h": "c",
+    "esp_netif.h": "c",
+    "i2c.h": "c"
+  },
+  "idf.portWin": "COM3",
+  "idf.flashType": "UART"
+}
